@@ -8,7 +8,7 @@ import sys
 #his variable is used for Command class
 #True to test the commands
 #False to communicate with the serial port
-test = True
+test = False
 
 #Command class is used for the serial port communication
 command1 = command.Commands()
