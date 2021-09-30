@@ -1,0 +1,63 @@
+\clearpage
+\newpage
+\section{Introduction}
+
+{This section will present the different requirements of the project, explain briefly where this project comes from and why; and the software and hardware used in the previous project.}
+
+\subsection{Purpose of the project}
+{
+For years, technology has been growing exponentially and with it the different technologies to make people's daily lives easier. As a result, many tedious and monotonous processes have been replaced by autonomous work carried out by machines, robots or computers. Previously, decisions about a process were made by a person or a group of people, but thanks to artificial intelligence algorithms, many of these decisions can be made by a computer. That is why nowadays autonomous decision making has become widespread in many fields, which is why it is growing.\\
+The autonomous control of robots or vehicles is a widespread field where machine learning algorithms are applied, hence the interest in controlling a robot, a Roomba, by means of a microcontroller. \\
+This is where this project has come from, being able to control a robot by means of machine learning algorithms using a GPU.
+}
+
+{
+\textbf{Theoretical objectives}
+\begin{itemize}
+\item Study different autonomous learning algorithms for face recognition.
+\end{itemize}
+
+\textbf{Practical objectives}
+\begin{itemize}
+\item Using the algorithm chosen in the theoretical part, recognise faces.
+\item Control a robot by means of the face and be able to follow it.
+
+\end{itemize}
+}
+
+\subsection{Requirements}
+{\textbf{Requirements of the project\\}
+{Control of an autonomous robot using machine learning techniques implemented on a GPU device.}
+\begin{itemize}
+\item Face recognize with a Nvidia Jetson Nano board using a Raspberry Pi Camera module.
+\item Controlling a Roomba 650 robot using the face.
+\end{itemize}
+
+{
+This project is the continuation of a laboratory that is part of the master's degree in electronic engineering at the faculty of telecommunications of the Polytechnic University of Catalonia. \\
+The main objective of the laboratory assigment was to use a hardware module in order to accelerate the implementation of a machine learning algorithm for easy recognition. This module was connected to a Raspberry Pi and by means of a camera module to be able to recognise the face.\\ 
+}
+{https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html \\
+The module for accelerating machine learning algorithms is an Intel Neural Compute Stick 2 (Intel NCS2). Develop, fine-tune, and deploy convolutional neural networks (CNNs), it is based on the Movidius Myriad X Vision Processing Unit (VPU). This processor is used to optimise complex calculations for image processing. \\
+This USB was connected to a Raspberry Pi 3, which collected live image frames via a camera and processed them with the Intel NCS2 module in order to control the Roomba 650 Roboto. This project aims to replace the Intel NCS2 module and the Raspberry Pi 3 with a single hardware module. For this purpose it was decided to use the Nvidia Jetson Nano board. This module is small, very powerful and has high computational capabilities that replaces the Intel module; it allows us to run multiple neural networks in parallel for image classification or object recognition among other applications. 
+}
+
+\bigskip
+
+{The minimum chapters that this thesis document should have are described below, nevertheless they can have different
+names and more chapters can be added.}
+
+\bigskip
+
+\subsection{Gantt Diagram}
+\label{ssec:gantt}
+\begin{figure}[H]
+    \centering
+    %\includegraphics[width=13cm]{img/diagram_gantt.png}
+    \input{gantt_diagrama.tex}
+    \caption[Project's Gantt diagram]{\footnotesize{Gantt diagram of the project}}
+    \label{fig:gantt}
+\end{figure}
+
+\bigskip
+

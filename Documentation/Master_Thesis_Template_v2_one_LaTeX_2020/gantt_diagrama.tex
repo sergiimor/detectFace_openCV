@@ -1,0 +1,51 @@
+\begin{ganttchart}[y unit title=0.4cm,
+y unit chart=0.5cm,
+vgrid,hgrid,
+title height=1,
+bar/.style={draw,fill=cyan},
+bar incomplete/.append style={fill=yellow!50},
+bar height=0.7]{1.5}{24}
+
+ % dies
+ \gantttitle{Phases of the Project}{24} \\
+ \gantttitle{2021}{24} \\
+ \gantttitle{Jan.}{2}
+ \gantttitle{Feb.}{2}
+ \gantttitle{March}{2}
+ \gantttitle{April}{2}
+ \gantttitle{May}{2} 
+ \gantttitle{June}{2}
+ \gantttitle{July}{2}
+ \gantttitle{Aug.}{2}
+ \gantttitle{Sep.}{2}
+ \gantttitle{Oct.}{2}
+ \gantttitle{Nov.}{2}
+ \gantttitle{Dec.}{2}\\
+ 
+ % caixes elem0 .. elem9 
+ \ganttgroup[inline=false]{Theoretical part}{6}{10}\\
+ \ganttbar[progress=100]{AI algorithms}{6}{7} \\
+ \ganttbar[progress=100]{Jetson Platform}{8}{9} \\
+ \ganttbar[progress=100]{Inference Jetson}{10}{10} \\
+ \ganttgroup[inline=false]{Development}{11}{14}\\
+ \ganttbar[progress=100]{Setup Jetson Nano}{11}{11} \\
+ \ganttbar[progress=100]{Face recognize}{12}{13}\\
+ \ganttbar[progress=100]{Robot control}{13}{14} \\
+  \ganttgroup[inline=false]{Correct bugs}{14}{15}\\
+ \ganttbar[progress=100]{Testing}{14}{15} \\
+ \ganttgroup[progress=100]{Documentation}{17}{19} \\
+ \ganttbar[inline=false]{Documentation}{17}{19}\\
+
+ 
+ % relacions
+ \ganttlink{elem1}{elem2}
+ \ganttlink{elem1}{elem3}
+ \ganttlink{elem3}{elem4}
+ \ganttlink{elem4}{elem5}
+ \ganttlink{elem5}{elem6}
+ \ganttlink{elem6}{elem7}
+ \ganttlink{elem1}{elem8}
+ \ganttlink{elem2}{elem8}
+ \ganttlink{elem3}{elem8}
+
+\end{ganttchart}

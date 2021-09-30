@@ -1,0 +1,2583 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.30)  30 SEP 2021 13:02
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.
+clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (tools/packages.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/comment\comm
+ent.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/supertabular
+\supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count190
+\ST@wd=\dimen139
+\ST@rightskip=\skip49
+\ST@leftskip=\skip50
+\ST@parfillskip=\skip51
+\ST@pageleft=\dimen140
+\ST@headht=\dimen141
+\ST@tailht=\dimen142
+\ST@pagesofar=\dimen143
+\ST@pboxht=\dimen144
+\ST@lineht=\dimen145
+\ST@prevht=\dimen146
+\ST@toadd=\dimen147
+\ST@dimen=\dimen148
+\ST@pbox=\box50
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\col
+or.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.
+sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks16
+\SOUL@lasttoken=\toks17
+\SOUL@cmds=\toks18
+\SOUL@buffer=\toks19
+\SOUL@token=\toks20
+\SOUL@spaceskip=\skip52
+\SOUL@ttwidth=\dimen149
+\SOUL@uldp=\dimen150
+\SOUL@ulht=\dimen151
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\boo
+ktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen164
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/paralist\par
+alist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip53
+\plpartopsep=\skip54
+\plitemsep=\skip55
+\plparsep=\skip56
+\pl@lab=\toks21
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx
+\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.
+sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count195
+\c@ALG@rem=\count196
+\c@ALG@nested=\count197
+\ALG@tlm=\skip57
+\ALG@thistlm=\skip58
+\c@ALG@Lnr=\count198
+\c@ALG@blocknr=\count199
+\c@ALG@storecount=\count266
+\c@ALG@tmpcounter=\count267
+\ALG@tmplength=\skip59
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\a
+lgorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/float\float.
+sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks22
+\float@box=\box51
+\@float@everytoks=\toks23
+\@floatcapt=\box52
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count269
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx
+\algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hvfloat\hvfl
+oat.sty
+Package: hvfloat 2021/07/14 v2.33 special floating objects (hv)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count270
+\c@continuedfloat=\count271
+Package caption Info: float package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\var
+width.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box53
+\sift@deathcycles=\count272
+\@vwid@loff=\dimen172
+\@vwid@roff=\dimen173
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/caption\subc
+aption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count273
+\c@subtable=\count274
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegsh
+i-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/picture\pict
+ure.sty
+Package: picture 2020-04-22 v1.6 Dimens for picture macros (HO)
+Package picture Info: Calculation method: etex.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tr
+imclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\c
+ollectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box54
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\ad
+jcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkey
+val.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+eyval.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+vutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+\tc@llx=\dimen176
+\tc@lly=\dimen177
+\tc@urx=\dimen178
+\tc@ury=\dimen179
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc
+-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\exp
+l3.sty
+Package: expl3 2021-06-01 L3 programming layer (loader) 
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box55
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/multido\mult
+ido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/multido\mu
+ltido.tex  v1.42, 2010/05/14 <tvz>
+\multido@count=\count277
+\multidocount=\count278
+\multido@stuff=\toks28
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\if
+oddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count279
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterp
+age.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks29
+\AP@partial=\box56
+\AP@footins=\box57
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/sttools\stfl
+oats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count280
+\c@dblbotnumber=\count281
+)
+\hvObjectWidth=\skip60
+\hvCapWidth=\skip61
+\hvWideWidth=\skip62
+\hvMultiFloatSkip=\skip63
+\hvMaxCapWidth=\skip64
+\hvObjectBox=\box58
+\hvCaptionBox=\box59
+\hvOBox=\box60
+\@tempbox=\box61
+\hv@caption@box=\box62
+\hv@leftBox=\box63
+\hv@rightBox=\box64
+\hvSet@bindCorrection=\skip65
+\hvSet@sepLineskip=\skip66
+\hv@leftPageObjectWidth=\skip67
+\hv@tempWidthA=\skip68
+\hv@tempWidthB=\skip69
+\hv@minTextlines=\skip70
+\hv@floatCapSep=\skip71
+\hvSet@bindCorr=\skip72
+\hvAboveCaptionSkip=\skip73
+\hvBelowCaptionSkip=\skip74
+\hv@dblfptop=\skip75
+\hv@fptop=\skip76
+\hv@@capPos=\count282
+\fboxlinewidth=\skip77
+\hv@maxImageWidth=\skip78
+\c@hv@tempCNTfigA=\count283
+\c@hv@tempCNTfigB=\count284
+\c@hv@tempCNTtabA=\count285
+\c@hv@tempCNTtabB=\count286
+\c@hv@pfigure=\count287
+\c@hv@ptable=\count288
+\c@subhv@pfigure=\count289
+\c@subhv@ptable=\count290
+\hv@cnta=\count291
+\hv@cntb=\count292
+\hv@boxLeftPage=\box65
+\hv@boxRightPage=\box66
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/changepage\c
+hngpage.sty
+Package: chngpage 2009/10/20 v1.2b change page layout
+\c@cp@cnt=\count293
+\c@cp@tempcnt=\count294
+LaTeX Info: Redefining \checkoddpage on input line 48.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\inputen
+c.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks30
+\inpenc@posthook=\toks31
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\col
+ortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.
+sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box67
+\extrarowheight=\dimen181
+\NC@list=\toks32
+\extratabsurround=\skip79
+\backup@length=\skip80
+\ar@cellbox=\box68
+)
+\everycr=\toks33
+\minrowclearance=\skip81
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count295
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvi
+psnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geo
+metry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvt
+ex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen182
+\Gm@wd@mp=\dimen183
+\Gm@odd@mp=\dimen184
+\Gm@even@mp=\dimen185
+\Gm@layoutwidth=\dimen186
+\Gm@layoutheight=\dimen187
+\Gm@layouthoffset=\dimen188
+\Gm@layoutvoffset=\dimen189
+\Gm@dimlist=\toks34
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geo
+metry.cfg))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsu
+m.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l
+3keys2e\l3keys2e.sty
+Package: l3keys2e 2021-06-01 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-08-01 v2.5 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count299
+\l__lipsum_a_int=\count300
+\l__lipsum_b_int=\count301
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsu
+m.ltd.tex))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabula
+rx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen190
+\TX@old@table=\dimen191
+\TX@old@col=\dimen192
+\TX@target=\dimen193
+\TX@delta=\dimen194
+\TX@cols=\count302
+\TX@ftn=\toks35
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wa
+llpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.s
+ty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen195
+\calc@Bdimen=\dimen196
+\calc@Askip=\skip82
+\calc@Bskip=\skip83
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count305
+\calc@Cskip=\skip84
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-
+pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen197
+\ESO@tempdimb=\dimen198
+)
+\wpXoffset=\skip85
+\wpYoffset=\skip86
+\tileXoffset=\skip87
+\tileYoffset=\skip88
+\tilewidth=\skip89
+\tileheight=\skip90
+\tileX=\skip91
+\tileY=\skip92
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\ad
+justbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+\adjbox@Width=\dimen199
+\adjbox@Height=\dimen256
+\adjbox@Depth=\dimen257
+\adjbox@Totalheight=\dimen258
+\adjbox@pwidth=\dimen259
+\adjbox@pheight=\dimen260
+\adjbox@pdepth=\dimen261
+\adjbox@ptotalheight=\dimen262
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.st
+y
+\UL@box=\box69
+\UL@hyphenbox=\box70
+\UL@skip=\skip93
+\UL@hook=\toks36
+\UL@height=\dimen263
+\UL@pe=\count306
+\UL@pixel=\dimen264
+\ULC@box=\box71
+Package: ulem 2019/11/18
+\ULdepth=\dimen265
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rot
+ating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count307
+\rotFPtop=\skip94
+\rotFPbot=\skip95
+\rot@float@box=\box72
+\rot@mess@toks=\toks37
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/parskip\pars
+kip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kv
+options.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\
+kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\eto
+olbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count308
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.sty
+\lst@mode=\count309
+\lst@gtempboxa=\box73
+\lst@token=\toks38
+\lst@length=\count310
+\lst@currlwidth=\dimen266
+\lst@column=\count311
+\lst@pos=\count312
+\lst@lostspace=\dimen267
+\lst@width=\dimen268
+\lst@newlines=\count313
+\lst@lineno=\count314
+\lst@maxwidth=\dimen269
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count315
+\lst@skipnumbers=\count316
+\lst@framebox=\box74
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+lang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/babel\babe
+l.sty
+Package: babel 2021/06/02 3.60 The Babel package
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/babel\babe
+l.def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count317
+\U@D=\dimen270
+\l@unhyphenated=\language79
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtb
+abel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count318
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopt
+s.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/babel-englis
+h\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsm
+ath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip96
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amst
+ext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsg
+en.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks39
+\ex@=\dimen271
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsb
+sy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen272
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amso
+pn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count319
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count320
+\leftroot@=\count321
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count322
+\DOTSCASE@=\count323
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box75
+\strutbox@=\box76
+\big@size=\dimen273
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count324
+\c@MaxMatrixCols=\count325
+\dotsspace@=\muskip17
+\c@parentequation=\count326
+\dspbrk@lvl=\count327
+\tag@help=\toks40
+\row@=\count328
+\column@=\count329
+\maxfields@=\count330
+\andhelp@=\toks41
+\eqnshift@=\dimen274
+\alignsep@=\dimen275
+\tagshift@=\dimen276
+\tagwidth@=\dimen277
+\totwidth@=\dimen278
+\lineht@=\dimen279
+\@envbody=\toks42
+\multlinegap=\skip97
+\multlinetaggap=\skip98
+\mathdisplay@stack=\toks43
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ams
+fonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ams
+symb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc
+.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyp
+erref.sty
+Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds
+\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/kvdefineke
+ys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\
+pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hyco
+lor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\
+letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxh
+ook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen280
+\Hy@linkcounter=\count331
+\Hy@pagecounter=\count332
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1
+enc.def
+File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyp
+erref-langpatches.def
+File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+nguages
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\in
+tcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\e
+texcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count333
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pue
+nc.def
+File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count334
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen281
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bit
+set.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc
+\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count335
+\Field@Width=\dimen282
+\Fld@charsize=\dimen283
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+\Hy@abspage=\count336
+\c@Item=\count337
+\c@Hfootnote=\count338
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpd
+ftex.def
+File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\atverye
+nd-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count339
+\c@bookmark@seq@number=\count340
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/rerunfileche
+ck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/uniquecoun
+ter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip99
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\multic
+ol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count341
+\mult@box=\box77
+\multicol@leftmargin=\dimen284
+\c@unbalance=\count342
+\c@collectmore=\count343
+\doublecol@number=\count344
+\multicoltolerance=\count345
+\multicolpretolerance=\count346
+\full@width=\dimen285
+\page@free=\dimen286
+\premulticols=\dimen287
+\postmulticols=\dimen288
+\multicolsep=\skip100
+\multicolbaselineskip=\skip101
+\partial@page=\box78
+\last@line=\box79
+\maxbalancingoverflow=\dimen289
+\mult@rightbox=\box80
+\mult@grightbox=\box81
+\mult@gfirstbox=\box82
+\mult@firstbox=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\c@minrows=\count347
+\c@columnbadness=\count348
+\c@finalcolumnbadness=\count349
+\last@try=\dimen290
+\multicolovershoot=\dimen291
+\multicolundershoot=\dimen292
+\mult@nat@firstbox=\box121
+\colbreak@box=\box122
+\mc@col@check@num=\count350
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/multirow\mul
+tirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip102
+\multirow@cntb=\count351
+\multirow@dima=\skip103
+\bigstrutjot=\dimen293
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/relsize\rels
+ize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+olorbox.sty
+Package: tcolorbox 2021/05/21 version 4.50 text color boxes
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgf.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfrcs.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common.tex
+\pgfutil@everybye=\toks44
+\pgfutil@tempdima=\dimen294
+\pgfutil@tempdimb=\dimen295
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common-lists.tex))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-latex.def
+\pgfutil@abb=\box123
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfrcs.code.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.re
+vision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgfcore.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemla
+yer\pgfsys.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks45
+\pgfkeys@temptoks=\toks46
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks47
+))
+\pgf@x=\dimen296
+\pgf@y=\dimen297
+\pgf@xa=\dimen298
+\pgf@ya=\dimen299
+\pgf@xb=\dimen300
+\pgf@yb=\dimen301
+\pgf@xc=\dimen302
+\pgf@yc=\dimen303
+\pgf@xd=\dimen304
+\pgf@yd=\dimen305
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count352
+\c@pgf@countb=\count353
+\c@pgf@countc=\count354
+\c@pgf@countd=\count355
+\t@pgf@toka=\toks48
+\t@pgf@tokb=\toks49
+\t@pgf@tokc=\toks50
+\pgf@sys@id@count=\count356
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count357
+\pgfsyssoftpath@bigbuffer@items=\count358
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathcalc.code.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathutil.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathparser.code.tex
+\pgfmath@dimen=\dimen306
+\pgfmath@count=\count359
+\pgfmath@box=\box124
+\pgfmath@toks=\toks51
+\pgfmath@stack@operand=\toks52
+\pgfmath@stack@operation=\toks53
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.code.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.basic.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.trigonometric.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.random.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.comparison.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.base.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.round.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.misc.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.integerarithmetics.code.tex)))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count360
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfint.code.tex)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen307
+\pgf@picmaxx=\dimen308
+\pgf@picminy=\dimen309
+\pgf@picmaxy=\dimen310
+\pgf@pathminx=\dimen311
+\pgf@pathmaxx=\dimen312
+\pgf@pathminy=\dimen313
+\pgf@pathmaxy=\dimen314
+\pgf@xx=\dimen315
+\pgf@xy=\dimen316
+\pgf@yx=\dimen317
+\pgf@yy=\dimen318
+\pgf@zx=\dimen319
+\pgf@zy=\dimen320
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen321
+\pgf@path@lasty=\dimen322
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen323
+\pgf@shorten@start@additional=\dimen324
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box125
+\pgf@hbox=\box126
+\pgf@layerbox@main=\box127
+\pgf@picture@serial@count=\count361
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen325
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen326
+\pgf@pt@y=\dimen327
+\pgf@pt@temp=\dimen328
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen329
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen330
+\pgf@sys@shading@range@num=\count362
+\pgf@shadingcount=\count363
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box128
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box129
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen331
+\pgf@nodesepend=\dimen332
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbat
+im.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read4
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/environ\envi
+ron.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\t
+rimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box130
+\tcb@upperbox=\box131
+\tcb@lowerbox=\box132
+\tcb@phantombox=\box133
+\c@tcbbreakpart=\count364
+\c@tcblayer=\count365
+\c@tcolorbox@number=\count366
+\tcb@temp=\box134
+\tcb@temp=\box135
+\tcb@temp=\box136
+\tcb@temp=\box137
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lsc
+ape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\las
+tpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/acro\acro.st
+y
+Package: acro 2021/01/16 v3.5 typeset acronyms and other abbreviations (CN)
+\g__acro_version_int=\count367
+\l__acro_tmpa_int=\count368
+\l__acro_tmpb_int=\count369
+\l__acro_tmpc_int=\count370
+\l__acro_tmpd_int=\count371
+Loading module `base' ...
+Loading module `interface' ...
+Loading module `aux' ...
+Loading module `properties' ...
+Loading module `acronyms' ...
+Loading module `formatting' ...
+Loading module `ppfixes' ...
+Loading module `tools' ...
+\l__acro_minimal_usage_int=\count372
+\l__acro_nest_int=\count373
+\g_acro_barrier_int=\count374
+\g_acro_barrier_total_int=\count375
+Loading module `commands' ...
+Loading module `templates' ...
+Loading module `list' ...
+Loading module `pages' ...
+\l__acro_pages_seq_threshold_int=\count376
+Loading module `locale' ...
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/translations
+\translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+)
+Loading module `pdfsupport' ...
+Loading module `patch' ...
+Loading module `definitions' ...
+Loading module `upgrade' ...
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/appendix\app
+endix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count377
+\c@@ppsavesec=\count378
+\c@@ppsaveapp=\count379
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\to
+cbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgfgantt\pgf
+gantt.sty
+Package: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontend
+layer\tikz.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgffor.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfkeys.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgf
+math.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex)
+\pgffor@iter=\dimen333
+\pgffor@skip=\dimen334
+\pgffor@stack=\toks56
+\pgffor@toks=\toks57
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count380
+\pgfplotmarksize=\dimen335
+)
+\tikz@lastx=\dimen336
+\tikz@lasty=\dimen337
+\tikz@lastxsaved=\dimen338
+\tikz@lastysaved=\dimen339
+\tikz@lastmovetox=\dimen340
+\tikz@lastmovetoy=\dimen341
+\tikzleveldistance=\dimen342
+\tikzsiblingdistance=\dimen343
+\tikz@figbox=\box138
+\tikz@figbox@bg=\box139
+\tikz@tempbox=\box140
+\tikz@tempbox@bg=\box141
+\tikztreelevel=\count381
+\tikznumberofchildren=\count382
+\tikznumberofcurrentchild=\count383
+\tikz@fig@count=\count384
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count385
+\pgfmatrixcurrentcolumn=\count386
+\pgf@matrix@numberofcolumns=\count387
+)
+\tikz@expandcount=\count388
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen344
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@layerbox@background=\box142
+\pgf@layerboxsaved@background=\box143
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfcalendar.sty
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfint.code.tex)
+\pgfcalendarcurrentjulian=\count389
+\pgf@cal@easter@Y=\count390
+\pgf@cal@easter@G=\count391
+\pgf@cal@easter@C=\count392
+\pgf@cal@easter@X=\count393
+\pgf@cal@easter@Z=\count394
+\pgf@cal@easter@D=\count395
+\pgf@cal@easter@E=\count396
+\pgf@cal@easter@N=\count397
+\pgf@cal@easter@M=\count398
+\pgf@cal@easter@julianday=\count399
+))
+\gtt@currentline=\count400
+\gtt@lasttitleline=\count401
+\gtt@currgrid=\count402
+\gtt@chartwidth=\count403
+\gtt@lasttitleslot=\count404
+\gtt@elementid=\count405
+\gtt@today@slot=\count406
+\gtt@startjulian=\count407
+\gtt@endjulian=\count408
+\gtt@chartid=\count409
+\gtt@vrule@slot=\count410
+\gtt@calendar@slots=\count411
+\gtt@calendar@weeknumber=\count412
+\gtt@calendar@startofweek=\count413
+\gtt@left@slot=\count414
+\gtt@right@slot=\count415
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc
+.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/textgreek\te
+xtgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/greek-fonten
+c\lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/greek-inpute
+nc\lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/greek-fonten
+c\greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+))
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\euro
+sym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box144
+) (tools/styles.tex
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fan
+cyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip104
+\f@nch@O@elh=\skip105
+\f@nch@O@erh=\skip106
+\f@nch@O@olh=\skip107
+\f@nch@O@orh=\skip108
+\f@nch@O@elf=\skip109
+\f@nch@O@erf=\skip110
+\f@nch@O@olf=\skip111
+\f@nch@O@orf=\skip112
+)) (tools/acro.tex
+\g__acro_EU_int=\count416
+\g__acro_ETSETB_int=\count417
+) (main.aux
+
+LaTeX Warning: Label `ssec: camera' multiply defined.
+
+(main.acr))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 7
+.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\l
+grcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count418
+\scratchdimen=\dimen345
+\scratchbox=\box145
+\nofMPsegments=\count419
+\nofMParguments=\count420
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count421
+\MPscratchDim=\dimen346
+\MPnumerator=\count422
+\makeMPintoPDFobject=\count423
+\everyMPtoPDFconversion=\toks59
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(79.49744pt, 722.18698pt, 43.36243pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=662.18698pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-92.77255pt
+* \headheight=75.0pt
+* \headsep=42.67912pt
+* \topskip=12.0pt
+* \footskip=60.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count424
+Package hyperref Info: Link coloring ON on input line 7.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nam
+eref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/refcount\ref
+count.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/generic/gettitlest
+ring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count425
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
+ (main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 7.
+\l__acro_aux_file_iow=\write6
+\openout6 = `main.acr'.
+
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/translations
+/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 7.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+5.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.
+fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+<img/logos/upc_completo+telecos.png, id=162, 1682.285pt x 420.57124pt>
+File: img/logos/upc_completo+telecos.png Graphic file (type png)
+<use img/logos/upc_completo+telecos.png>
+Package pdftex.def Info: img/logos/upc_completo+telecos.png  used on input line
+ 16.
+(pdftex.def)             Requested size: 1682.28091pt x 420.57022pt.
+<img/logos/logo_telecos.png, id=164, 2370.8575pt x 1321.93875pt>
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 47.
+(pdftex.def)             Requested size: 112.25513pt x 62.59596pt.
+
+
+Package fancyhdr Warning: \footskip is too small (60.0pt): 
+(fancyhdr)                Make it at least 67.346pt, for example:
+(fancyhdr)                \setlength{\footskip}{67.346pt}.
+
+[1
+
+{C:/Users/ESTUDIANTES.N000/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./im
+g/logos/upc_completo+telecos.png> <./img/logos/logo_telecos.png>] (main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+a.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+b.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+<img/logos/upclogo.png, id=216, 114.318pt x 25.2945pt>
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 51.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 51.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [2 <./img/logos/upclogo.png (PNG copy)>]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 51.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 51.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [3] (main.lof)
+\tf@lof=\write8
+\openout8 = `main.lof'.
+
+ (main.lol)
+\tf@lol=\write9
+\openout9 = `main.lol'.
+
+
+(main.lot)
+\tf@lot=\write10
+\openout10 = `main.lot'.
+
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 57.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 57.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [4] (revision_history.tex
+Overfull \hbox (0.94794pt too wide) in paragraph at lines 17--17
+[]\T1/cmr/m/n/12 dd/mm/yyyy| 
+ []
+
+
+Overfull \hbox (0.94794pt too wide) in paragraph at lines 20--20
+[]\T1/cmr/m/n/12 dd/mm/yyyy| 
+ []
+
+
+Overfull \hbox (31.76706pt too wide) in paragraph at lines 11--41
+ [] 
+ []
+
+
+Overfull \hbox (19.33887pt too wide) in paragraph at lines 53--79
+ [] 
+ []
+
+
+Overfull \hbox (39.7287pt too wide) in paragraph at lines 88--105
+ [] 
+ []
+
+)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 61.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 61.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [5]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 69.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 69.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [6
+
+] (introduction.tex
+Overfull \hbox (25.67023pt too wide) in paragraph at lines 40--40
+[]\T1/cmr/m/n/12 https://software.intel.com/content/www/us/en/develop/hardware/
+neural-compute-stick.html 
+ []
+
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 41.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 41.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+[7
+
+
+] (gantt_diagrama.tex)
+Overfull \hbox (0.69185pt too wide) in paragraph at lines 7--58
+ []\T1/cmr/m/n/12 .5[] 
+ []
+
+)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 73.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 73.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [8] (state_of_art.tex
+<../../Photos/AI_global.png, id=300, 438.8897pt x 244.66406pt>
+File: ../../Photos/AI_global.png Graphic file (type png)
+<use ../../Photos/AI_global.png>
+Package pdftex.def Info: ../../Photos/AI_global.png  used on input line 20.
+(pdftex.def)             Requested size: 312.9803pt x 174.47801pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 33.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 33.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [9
+
+
+ <../../Photos/AI_global.png>]
+<../../Photos/neural_network.jpg, id=305, 475.7775pt x 311.1625pt>
+File: ../../Photos/neural_network.jpg Graphic file (type jpg)
+<use ../../Photos/neural_network.jpg>
+Package pdftex.def Info: ../../Photos/neural_network.jpg  used on input line 38
+.
+(pdftex.def)             Requested size: 227.62204pt x 148.86726pt.
+<../../Photos/ReLU.jpg, id=306, 642.4pt x 466.74374pt>
+File: ../../Photos/ReLU.jpg Graphic file (type jpg)
+<use ../../Photos/ReLU.jpg>
+Package pdftex.def Info: ../../Photos/ReLU.jpg  used on input line 54.
+(pdftex.def)             Requested size: 256.0748pt x 186.06033pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 58.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 58.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [10 <../../Photos/neural_network.jpg>]
+<../../Photos/arch_cnn.png, id=313, 639.89063pt x 202.50656pt>
+File: ../../Photos/arch_cnn.png Graphic file (type png)
+<use ../../Photos/arch_cnn.png>
+Package pdftex.def Info: ../../Photos/arch_cnn.png  used on input line 66.
+(pdftex.def)             Requested size: 369.88582pt x 117.05835pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 76.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 76.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [11 <../../Photos/ReLU.jpg> <../../Photos/arch_cnn.png>]
+<../../Photos/cascade_algo.png, id=319, 325.96782pt x 176.91093pt>
+File: ../../Photos/cascade_algo.png Graphic file (type png)
+<use ../../Photos/cascade_algo.png>
+Package pdftex.def Info: ../../Photos/cascade_algo.png  used on input line 89.
+(pdftex.def)             Requested size: 369.88582pt x 200.76274pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 97.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 97.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+
+[12 <../../Photos/cascade_algo.png>]
+<../../Photos/stage_cascade.png, id=325, 144.54pt x 62.634pt>
+File: ../../Photos/stage_cascade.png Graphic file (type png)
+<use ../../Photos/stage_cascade.png>
+Package pdftex.def Info: ../../Photos/stage_cascade.png  used on input line 103
+.
+(pdftex.def)             Requested size: 369.88582pt x 160.29276pt.
+<../../Photos/black_box.png, id=326, 277.035pt x 58.71938pt>
+File: ../../Photos/black_box.png Graphic file (type png)
+<use ../../Photos/black_box.png>
+Package pdftex.def Info: ../../Photos/black_box.png  used on input line 118.
+(pdftex.def)             Requested size: 369.88582pt x 78.40039pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 125.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 125.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [13 <../../Photos/stage_cascade.png> <../../Photos/black_box.png>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 129.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 182.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 182.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [14]
+<../../Photos/transistors_GPU_CPU.png, id=345, 472.01344pt x 222.8325pt>
+File: ../../Photos/transistors_GPU_CPU.png Graphic file (type png)
+<use ../../Photos/transistors_GPU_CPU.png>
+Package pdftex.def Info: ../../Photos/transistors_GPU_CPU.png  used on input li
+ne 192.
+(pdftex.def)             Requested size: 369.88582pt x 174.62128pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 197.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 197.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [15 <../../Photos/transistors_GPU_CPU.png>]
+<../../Photos/gpu-computing-applications.png, id=352, 997.7275pt x 857.2025pt>
+File: ../../Photos/gpu-computing-applications.png Graphic file (type png)
+<use ../../Photos/gpu-computing-applications.png>
+Package pdftex.def Info: ../../Photos/gpu-computing-applications.png  used on i
+nput line 208.
+(pdftex.def)             Requested size: 369.88582pt x 317.7878pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 215.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 215.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+
+[16 <../../Photos/gpu-computing-applications.png>]
+<../../Photos/Thread-organization-in-CUDA-programming-model.png, id=357, 710.65
+5pt x 605.26125pt>
+File: ../../Photos/Thread-organization-in-CUDA-programming-model.png Graphic fi
+le (type png)
+<use ../../Photos/Thread-organization-in-CUDA-programming-model.png>
+Package pdftex.def Info: ../../Photos/Thread-organization-in-CUDA-programming-m
+odel.png  used on input line 227.
+(pdftex.def)             Requested size: 284.52756pt x 242.33109pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 231.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 231.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [17]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 237.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 237.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [18 <../../Photos/Thread-organization-in-CUDA-programming-model.png (PNG copy)
+>]
+<../../Photos/The-CUDA-programming-model-is-de-signed-for-compute-It-represents
+-the-GPU-as-a.png, id=366, 311.1625pt x 385.44pt>
+File: ../../Photos/The-CUDA-programming-model-is-de-signed-for-compute-It-repre
+sents-the-GPU-as-a.png Graphic file (type png)
+<use ../../Photos/The-CUDA-programming-model-is-de-signed-for-compute-It-repres
+ents-the-GPU-as-a.png>
+Package pdftex.def Info: ../../Photos/The-CUDA-programming-model-is-de-signed-f
+or-compute-It-represents-the-GPU-as-a.png  used on input line 244.
+(pdftex.def)             Requested size: 227.62204pt x 281.95699pt.
+)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 77.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 77.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [19 <../../Photos/The-CUDA-programming-model-is-de-signed-for-compute-It-repre
+sents-the-GPU-as-a.png (PNG copy)>] (Methodology.tex
+Overfull \hbox (38.33897pt too wide) in paragraph at lines 24--24
+\T1/cmr/m/n/12 use it are very well doc-u-mented on their web-site. https://dev
+eloper.nvidia.com/embedded/jetpack 
+ []
+
+<../../Photos/jetson-nano.jpg, id=372, 587.19376pt x 329.73187pt>
+File: ../../Photos/jetson-nano.jpg Graphic file (type jpg)
+<use ../../Photos/jetson-nano.jpg>
+Package pdftex.def Info: ../../Photos/jetson-nano.jpg  used on input line 32.
+(pdftex.def)             Requested size: 312.9803pt x 175.74821pt.
+
+Overfull \hbox (80.54875pt too wide) in paragraph at lines 37--57
+[][] 
+ []
+
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 58.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 58.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+[20
+
+
+ <../../Photos/jetson-nano.jpg>]
+<../../Photos/csi_camera.jpg, id=385, 475.7775pt x 475.7775pt>
+File: ../../Photos/csi_camera.jpg Graphic file (type jpg)
+<use ../../Photos/csi_camera.jpg>
+Package pdftex.def Info: ../../Photos/csi_camera.jpg  used on input line 62.
+(pdftex.def)             Requested size: 199.16928pt x 199.1718pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 72.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 72.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [21 <../../Photos/csi_camera.jpg>]
+<../../Photos/roomba.png, id=390, 541.27219pt x 476.53032pt>
+File: ../../Photos/roomba.png Graphic file (type png)
+<use ../../Photos/roomba.png>
+Package pdftex.def Info: ../../Photos/roomba.png  used on input line 76.
+(pdftex.def)             Requested size: 284.52756pt x 250.5021pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 106.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 106.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [22 <../../Photos/roomba.png>]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 170.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 170.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [23]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 242.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 242.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [24]
+<../../Photos/Jetson_Nano-Getting_Started-Setup-Insert_microSD-B01.png, id=409,
+ 903.375pt x 820.56563pt>
+File: ../../Photos/Jetson_Nano-Getting_Started-Setup-Insert_microSD-B01.png Gra
+phic file (type png)
+<use ../../Photos/Jetson_Nano-Getting_Started-Setup-Insert_microSD-B01.png>
+Package pdftex.def Info: ../../Photos/Jetson_Nano-Getting_Started-Setup-Insert_
+microSD-B01.png  used on input line 291.
+(pdftex.def)             Requested size: 256.0748pt x 232.59903pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 295.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 295.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [25]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 318.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 318.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [26 <../../Photos/Jetson_Nano-Getting_Started-Setup-Insert_microSD-B01.png>]
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+lang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+lang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<../../Photos/download-models.jpg, id=420, 722.7pt x 432.61626pt>
+File: ../../Photos/download-models.jpg Graphic file (type jpg)
+<use ../../Photos/download-models.jpg>
+Package pdftex.def Info: ../../Photos/download-models.jpg  used on input line 3
+38.
+(pdftex.def)             Requested size: 256.0748pt x 153.28609pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 344.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 344.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [27 <../../Photos/download-models.jpg>]
+<../../Photos/pytorch-installer.jpg, id=433, 721.69624pt x 433.62pt>
+File: ../../Photos/pytorch-installer.jpg Graphic file (type jpg)
+<use ../../Photos/pytorch-installer.jpg>
+Package pdftex.def Info: ../../Photos/pytorch-installer.jpg  used on input line
+ 348.
+(pdftex.def)             Requested size: 256.0748pt x 153.85347pt.
+<../../Photos/tensorRT1.png, id=434, 544.28343pt x 310.91156pt>
+File: ../../Photos/tensorRT1.png Graphic file (type png)
+<use ../../Photos/tensorRT1.png>
+Package pdftex.def Info: ../../Photos/tensorRT1.png  used on input line 378.
+(pdftex.def)             Requested size: 256.0748pt x 146.27551pt.
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 382.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 382.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [28 <../../Photos/pytorch-installer.jpg>]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 403.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 403.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [29 <../../Photos/tensorRT1.png>]
+<../../Photos/fit1.png, id=452, 380.17032pt x 148.30406pt>
+File: ../../Photos/fit1.png Graphic file (type png)
+<use ../../Photos/fit1.png>
+Package pdftex.def Info: ../../Photos/fit1.png  used on input line 412.
+(pdftex.def)             Requested size: 256.0748pt x 99.89723pt.
+)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 82.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 82.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [30 <../../Photos/fit1.png>]
+(result.tex
+Overfull \hbox (233.88466pt too wide) in paragraph at lines 20--22
+\T1/cmr/m/n/12 vides us with a cas-cade file $\OML/cmm/m/it/12 https \OT1/cmr/m
+/n/12 : \OML/cmm/m/it/12 ==github:com=opencv=opencv=blob=master=data=haarcascad
+es=haarcascade[]rontalface[]efault:xml$
+ []
+
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+lang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+7.
+
+(C:\Users\ESTUDIANTES.N000\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.
+fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (9.25772pt too wide) in paragraph at lines 37--38
+[][]$\T1/cmtt/m/n/12 https : / / docs . opencv . org / 3 . 4 / d1 / de5 / class
+cv _ 1 _ 1CascadeClassifier . html$[][] \T1/cmr/m/n/12 func-tion
+ []
+
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 40.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 40.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+[31
+
+
+]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 65.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 65.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [32]
+<../../Photos/prototype.png, id=481, 294.34969pt x 306.39468pt>
+File: ../../Photos/prototype.png Graphic file (type png)
+<use ../../Photos/prototype.png>
+Package pdftex.def Info: ../../Photos/prototype.png  used on input line 73.
+(pdftex.def)             Requested size: 312.9803pt x 325.79134pt.
+)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 86.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 86.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [33 <../../Photos/prototype.png>] (Budget.tex)
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 91.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 91.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [34
+
+]
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 97.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 97.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+ [35
+
+]
+No file main.bbl.
+
+Package caption Warning: Unused \captionsetup[sub] on input line 42.
+See the caption package documentation for explanation.
+
+
+AED: lastpage setting LastPage
+File: img/logos/upclogo.png Graphic file (type png)
+<use img/logos/upclogo.png>
+Package pdftex.def Info: img/logos/upclogo.png  used on input line 113.
+(pdftex.def)             Requested size: 154.31738pt x 34.14322pt.
+File: img/logos/logo_telecos.png Graphic file (type png)
+<use img/logos/logo_telecos.png>
+Package pdftex.def Info: img/logos/logo_telecos.png  used on input line 113.
+(pdftex.def)             Requested size: 61.21034pt x 34.14322pt.
+[36
+
+] (main.aux (main.acr))
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 76470153EEA2723D25E7E10255FE20F9;5631.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 29 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 38693 strings out of 478864
+ 768779 string characters out of 2843446
+ 1347593 words of memory out of 3000000
+ 55709 multiletter control sequences out of 15000+600000
+ 424615 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,16n,96p,885b,1622s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\ESTUDIANTES.N000\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\E
+STUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc120
+0.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\ecrm1000.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\ESTUDIANTES.N000\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ESTUDIANTES.
+N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\U
+sers\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1440.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecrm1200.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ESTUDIANTES.N000\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ESTUDI
+ANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk>
+ <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecsi1200.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\ESTUDIANTES.N000\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\ESTUDIANTES.N000\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss2488.pk><C:/Users/E
+STUDIANTES.N000/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><C:/Users/ESTUDIANTES.N000/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Users/ESTUDIANTES.N000/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ESTUDIANTES.N000/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ES
+TUDIANTES.N000/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><C:/Users/ESTUDIANTES.N000/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/ESTUDIANTES.N000/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/eurosym/feymr10.pfb><C:/Users/ESTUDIANTES.N000/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1200.pfb>
+Output written on main.pdf (36 pages, 3041820 bytes).
+PDF statistics:
+ 1129 PDF objects out of 1200 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 440 words of extra memory for PDF output out of 10000 (max. 10000000)
+
